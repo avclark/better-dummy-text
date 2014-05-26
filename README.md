@@ -31,6 +31,18 @@ Using git, browse to your `/wp-content/plugins/` directory and clone this reposi
 
 Then go to your Plugins screen and click __Activate__.
 
+##  Usage
+
+Add the [bdt] shortcode to a post or page.
+
+### Parameters
+
+All parameters are optional
+
+- count - Number of paragraphs (Example: count="10"). Default is 5.
+- show - The show from which you want to pull dummy text (Example: show="simpsons"). Default is "arresteddevelopment".
+-- You can pull dummy text from any of the following: arresteddevelopment, doctorwho, dexter, futurama, holygrail, simpsons, starwars, and loremipsum. 
+
 
 ## Credits
 
